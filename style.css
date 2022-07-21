@@ -1,0 +1,285 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto' sans-serif;
+    font-family: 'Signike' sans-serif;
+    margin: 0;
+}
+
+.main-section {
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+    height: 400px;
+    width: 1200px;
+    left: 80px;
+    top: 30px;
+    position: absolute;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(238, 162, 127);
+    padding: 10px 60px;
+    border-radius: 10px;
+    color: rgb(204, 16, 16);
+
+}
+
+.earth {
+    font-size: 50px;
+}
+
+.text-1 {
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.bac-section {
+    background-color: black;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    left: 80px;
+    top: 600px;
+    position: absolute;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 160px;
+}
+
+.btn {
+    position: relative;
+    background-color: aliceblue;
+    color: black;
+    width: 10rem;
+    margin-bottom: 30px;
+    padding: 1rem 0px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    left: 19px;
+    top: 50px;
+}
+
+.btn-blog {
+    background-color: rgb(249, 147, 96);
+}
+
+.main-div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    right: 80px;
+}
+
+.box-1 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 300px;
+    top: 600px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.box-2 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 650px;
+    top: 600px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.box-3 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 1000px;
+    top: 600px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.box-4 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    right: 690px;
+    top: 400px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.box-5 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 350px;
+    top: 1px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.box-6 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 350px;
+    top: 1px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.box-7 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    right: 700px;
+    top: 400px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.box-8 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 350px;
+    top: 0px;
+    position: absolute;
+}
+
+.box-9 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 350px;
+    top: 0px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.footer {
+    background-color: black;
+    height: 350px;
+    width: 1550px;
+    top: 1790px;
+    position: absolute;
+    color: aliceblue;
+    text-align: center;
+}
+
+.goal {
+    font-size: 60px;
+    position: absolute;
+    top: 10px;
+    left: 650px;
+    text-align: center;
+
+}
+
+.line {
+    position: absolute;
+    border: 1px solid white;
+    opacity: 0.3;
+    height: 0px;
+    width: 765px;
+    left: 400px;
+    top: 150px;
+}
+
+.text-1 {
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+.text-2 {
+    position: absolute;
+    top: 200px;
+    left: 600px;
+}
+
+.text-3 {
+    position: absolute;
+    top: 200px;
+    left: 720px;
+}
+
+.text-4 {
+    position: absolute;
+    top: 200px;
+    left: 840px;
+}
+
+.text-5 {
+    position: absolute;
+    top: 200px;
+    left: 920px;
+}
+
+.facebook {
+    position: absolute;
+    top: 280px;
+    left: 720px;
+}
+
+.twitter {
+    position: absolute;
+    top: 280px;
+    left: 760px;
+
+}
+
+.instagram {
+    position: absolute;
+    top: 280px;
+    left: 800px;
+}
